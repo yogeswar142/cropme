@@ -1,0 +1,12 @@
+{
+    "input_folder": "/home/yogeswar/Desktop/Projects/PawPrint/public/assets/captcha/ANIMALS",
+    "output_folder": "/home/yogeswar/Desktop/Projects/PawPrint/public/assets/captcha/animals",
+    "crop_width": 800,
+    "crop_height": 800,
+    "lock_aspect_ratio": true,
+    "aspect_ratio_preset": "1:1",
+    "show_rule_of_thirds": true,
+    "last_image_index": 0,
+    "fullscreen_state": false,
+    "last_opened_folders": []
+}
